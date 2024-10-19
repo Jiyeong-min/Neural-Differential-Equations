@@ -17,3 +17,4 @@ The `AdvancedPathModel` consists of the following layers:
 
 - **Fully Connected Layers**: 5 layers of increasing and decreasing units (256, 128, 64, 32, 1).
 - **Dropout**: Applied after the first layer to prevent overfitting.
+- **ReLU Activations**: Used between layers to introduce non-linearity.
